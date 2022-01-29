@@ -24,6 +24,7 @@ html {
   --icons-details: #a5b0c1;
 
   /* grey */
+  --grey-medium: #eaecf2;
   --grey-dark: #4d5e77;
   --grey-blue: #a1b2cd;
   --grey-light: #e5eaf1;
@@ -108,6 +109,18 @@ button.outlined,
   background: var(--white);
   border: 0.2rem solid var(--blue);
   color: var(--blue);
+}
+
+button.red,
+.button.red {
+  background: var(--red);
+  color: var(--white);
+}
+
+button.grey,
+.button.grey {
+  background: var(--grey-light);
+  color: var(--grey-dark);
 }
 
 /*===== HEADER==========*/
