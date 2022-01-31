@@ -9,7 +9,6 @@ Repositório baseado nas aulas da NLW Discover - Misson Discover da Rocketseat
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 
