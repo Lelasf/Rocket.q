@@ -1,8 +1,11 @@
-# Rocket.q
+<h1 align="center">
+  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
+</h1>
+
 Repositório baseado nas aulas da NLW Discover - Misson Discover da Rocketseat
 
 
-## 🚀&nbsp Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
